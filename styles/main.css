@@ -1,0 +1,13 @@
+.list{
+    justify-content: flex-start;
+}
+.shop {
+    flex-basis: 16%;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: 0.5em;
+    text-align: center;
+    flex-direction: row;
+     /* Center align the text in the boxes */
+}
+
